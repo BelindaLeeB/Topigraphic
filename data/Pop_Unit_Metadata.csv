@@ -1,0 +1,10 @@
+species_label,species,species_type,species_trophic_level,species_description,species_color,species_latin_name,species_weight_range,species_max_speed
+Buffalo,buffalo,Prey,Large Herbivore,African buffalo,purple,Syncerus caffer,"1,100 - 2,200 lbs",35 mph
+Wildebeest,wildebeest,Prey,Large Herbivore,Blue wildebeest,blue,Connochaetes taurinus,260 - 600 lbs,50 mph
+Warthog,warthog,Prey,Small Herbivore,Common warthog ,pink,Phacochoerus africanus,100 - 330 lbs,30 mph
+Zebra,zebra,Prey,Large Herbivore,Plains zebra ,black,Equus quagga,450 - 990 lbs,40 mph
+Gazelle,gazelleThomsons,Prey,Small Herbivore,Thomson's gazelle,green,Eudorcas thomsonii,35 - 75 lbs,45 mph
+Topi,topi,Prey,Small Herbivore,Topi,red,Damaliscus korrigum,150 - 350 lbs,55 mph
+Giraffe,giraffe,Prey,Megaherbivore,Masai giraffe,yellow,Giraffa camelopardalis,1500 - 4300 lbs,35 mph
+Elephant,elephant,Prey,Megaherbivore,African bush elephant,gray,Loxodonta africana,"6,000 - 14,000 lbs",25 mph
+Lion,lion,Predator,Carnivore,African lion,gold,Panthera leo,330  - 400 obs,50 mph
